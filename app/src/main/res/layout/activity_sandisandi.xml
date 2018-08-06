@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_sandisandi"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.mada.pramukaapp.sandisandi">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtsandimorse"
+        android:text="1.Sandi Morse"
+        android:layout_marginTop="10dp"
+        android:textColor="#000"
+        android:textSize="20dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtsandikotak1"
+            android:text="2.Sandi Kotak 1"
+            android:layout_below="@+id/imgsandimorse"
+            android:layout_marginTop="10dp"
+            android:textColor="#000"
+            android:textSize="20dp"/>
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:id="@+id/imgsandikotak1"
+            android:layout_below="@+id/txtsandikotak1"
+            android:src="@drawable/sandikotak1"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtsandikotak2"
+            android:text="3.Sandi Kotak 2"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/imgsandikotak1"
+            android:textColor="#000"
+            android:textSize="20dp"/>
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:id="@+id/imgsandikotak2"
+            android:layout_below="@+id/txtsandikotak2"
+            android:src="@drawable/sandikotak2"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtsandikotak3"
+            android:text="4.Sandi Kotak 3"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/imgsandikotak2"
+            android:textColor="#000"
+            android:textSize="20dp"/>
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:id="@+id/imgsandikotak3"
+            android:layout_below="@+id/txtsandikotak3"
+            android:src="@drawable/sandikotak3"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtsandirumput"
+            android:text="5.Sandi Rumput"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/imgsandikotak3"
+            android:textColor="#000"
+            android:textSize="20dp"/>
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:id="@+id/imgsandirumput"
+            android:layout_below="@+id/txtsandirumput"
+            android:src="@drawable/sandirumput"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtsandipaku"
+            android:text="6.Sandi Paku"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/imgsandirumput"
+            android:textColor="#000"
+            android:textSize="20dp"/>
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:id="@+id/imgsandipaku"
+            android:layout_below="@+id/txtsandipaku"
+            android:src="@drawable/sandipaku"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtsmaphore"
+            android:text="7.Smaphore"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/imgsandipaku"
+            android:textColor="#000"
+            android:textSize="20dp"/>
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:id="@+id/imgsmaphore"
+            android:layout_below="@id/txtsmaphore"
+            android:src="@drawable/smaphorefix"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"/>
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:id="@+id/imgsandimorse"
+            android:src="@drawable/morse"
+            android:layout_marginTop="25dp"
+            android:layout_below="@+id/txtsandimorse"
+            android:layout_marginLeft="30dp" />
+
+
+    </RelativeLayout>
+
+</ScrollView>

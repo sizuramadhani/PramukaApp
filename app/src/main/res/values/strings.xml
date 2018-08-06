@@ -1,0 +1,403 @@
+<resources>
+    <string name="app_name">Pramuka App</string>
+    <string name="Tri_satya">
+
+        Tri satya\n\n
+demi kehormatanku aku berjanji akan bersungguh-sungguh :\n
+
+1.menjalankan kewajibanku terhadap tuhan yang maha esa dan negara kesatuan republik indonesia,\n
+        dan menjalankan pancasila\n
+2.menolong sesama hidup dan ikut serta membangun masyarakat\n
+3.menepati dasa dharma\n\n</string>
+
+    <string name="dasa_dharma">
+
+Dasa dharma Pramuka\n
+Pramuka itu :\n\n
+
+1.takwa kepada tuhan yang maha esa\n
+2.cinta alam dan kasih sayang sesama manusia\n
+3.patuh dan suka bermusyawarah\n
+4.patriot yang sopan dan kesatria\n
+5.rela menolong dan tabah\n
+6.rajin terampil dan gembira\n
+7.hemat cermat dan bersahaja\n
+8.disiplin berani dan setia\n
+9.bertanggung jawab dan dapat dipercaya\n
+10.suci dalam pikiran, perkataan dan perbuatan\n
+    </string>
+    <string name="hymne_pramuka">
+        Kami\n
+Pramuka Indonesia\n
+Manusia Pancasila\n
+Satyaku kudarmakan\n
+Darmaku kubaktikan\n
+Agar jaya Indonesia\n
+Indonesia\n
+Tanah airku\n
+Kami jadi pandumu\n
+    </string>
+    <string name="Dwi_darma_dan_dwi_satya">
+        Dwisatya\n\n
+Demi kehormatanku aku berjanji akan bersunguh-sungguh:\n
+Menjalankan kewajibanku terhadap Tuhan, Negara Kesatuan Republik Indonesia dan menurut aturan keluarga.\n
+Setiap hari berbuat kebaikan.\n\n
+Dwidarma\n\n
+Siaga itu patuh pada ayah dan ibundanya.\n
+Siaga itu berani dan tidak putus asa.\n
+    </string>
+    <string name="aba_aba_pbb">
+        Aba-aba pbb (sipil):\n\n
+
+Istirahat ditempat gerak,\n
+Parade istirahat ditempat gerak,\n
+Hormat gerak,\n
+Hitung mulai,\n
+Hadap kanan gerak,\n
+Hadap kanan maju jalan,\n
+Hadap kanan jalan,\n
+Hadap kanan henti gerak,\n
+Hadap kanan jalan ditempat gerak,\n
+Hadap kanan langkah tegap maju jalan,\n
+Hadap kiri gerak,\n
+Hadap kiri maju jalan,\n
+Hadap kiri jalan,\n
+Hadap kiri henti gerak,\n
+Hadap kiri jalan ditempat gerak,\n
+Hadap kiri langkah tegap maju jalan,\n
+Hadap serong kanan gerak,\n
+Hadap serong kanan maju jalan,\n
+Hadap serong kanan jalan,\n
+Hadap serong kanan henti gerak,\n
+Hadap serong kanan jalan ditempat gerak,\n
+Hadap serong kanan langkah tegap maju jalan,\n
+Hadap serong kiri gerak,\n
+Hadap serong kiri maju jalan,\n
+Hadap serong kiri jalan,\n
+Hadap serong kiri henti gerak,\n
+Hadap serong kiri jalan ditempat gerak,\n
+Hadap serong kiri langkah tegap maju jalan,\n
+Balik kanan gerak,\n
+Balik kanan maju jalan,\n
+Balik kanan jalan,\n
+Balik kanan henti gerak,\n
+Balik kanan jalan ditempat gerak,\n
+Jalan ditempat gerak,\n
+Lencang kanan gerak,\n
+Setengah lengan lencang kanan gerak,\n
+Lencang kiri gerak,\n
+Setengah lengan lencang kiri gerak,\n
+Lencang depan gerak,\n
+1/2/3/4 langkah ke depan jalan,\n
+1/2/3/4 langkah ke belakang jalan,\n
+1/2/3/4 langkah ke kanan jalan,\n
+1/2/3/4 langkah ke kiri jalan,\n
+Buka barisan jalan,\n
+Tutup barisan jalan,\n
+Maju jalan,\n
+Langkah tegap jalan,\n
+Langkah perlahan jalan,\n
+Lari jalan,\n
+Lari maju jalan,\n
+Tiap-tiap banjar dua kali belok kanan jalan,\n
+Tiap-tiap banjar dua kali belok kanan maju jalan,\n
+Tiap-tiap banjar dua kali belok kiri jalan,\n
+Tiap-tiap banjar dua kali belok kiri maju jalan,\n
+Belok kanan jalan,\n
+Belok kanan maju jalan,\n
+Belok kiri jalan,\n
+Belok kiri maju jalan,\n
+Dua kali belok kanan jalan,\n
+Dua kali belok kanan maju jalan,\n
+Dua kali belok kiri jalan,\n
+Dua kali belok kiri maju jalan,\n
+Hormat kanan gerak,\n
+Hormat kiri gerak,\n
+Haluan kanan jalan,\n
+Haluan kanan maju jalan,\n
+Haluan kiri jalan,\n
+Haluan kiri maju jalan,\n
+Melintang kanan jalan,\n
+Melintang kanan maju jalan,\n
+Melintang kiri jalan,\n
+Melintang kiri maju jalan,\n
+Bubar jalan,\n
+Berhimpun mulai,\n
+Berhimpun selesai,\n
+Siswa (nama penjuru) sebagai penjuru,\n
+(Nominal) bersaf kumpul mulai,\n
+(Nominal) banjar kumpul mulai,\n
+Periksa kerapian mulai,\n
+Periksa kerapian selesai.\n
+    </string>
+    <string name="sejarah_pramuka_dunia">
+        Sejarah Pramuka \n\n
+        Pramuka merupakan singkatan berasal dari praja muda karana, yang memiliki makna rakyat muda yang senang berkarya.\n
+        Gerakan Pramuka Indonesia adalah nama organisasi pendidikan nonformal yang menyelenggarakan pendidikan kepanduan,\n
+        yang dilakukan di Indonesia.\n\n
+        Sedangkan pengertian Kepramukaan adalah sistem pendidikan kepanduan yang disesuaikan bersama keadaan,\n
+        kepentingan, dan perkembangan masyarakat dan bangsa Indonesia.\n
+        Pendidikan kepanduan merupakan sistem pendidikan di luar lingkungan sekolah dan di luar lingkungan keluarga\n
+        didalam wujud kesibukan menarik.\n\n
+         Serta menyenangkan, sehat, teratur, terarah, praktis yang dilakukan di alam terbuka bersama Prinsip Dasar Kepramukaan\n
+        dan Metode Kepramukaan, yang sasaran akhirnya pembentukan watak, akhlak, dan budi pekerti luhur.\n\n
+
+        Pramuka adalah istilah yang hanya digunakan di Indonesia, sedangkan di dunia dikenal dengan Scout.\n
+        Gerakan yang juga disebut dengan Scouting atau juga Scout Movement ini memiliki tujuan untuk,\n
+        mengembangkan perkembangan pemuda baik secara fisik, mental maupun spiritual.\n
+Sejarah Pramuka di dunia sendiri bermula pada 25 Juli 1907 saat Lord Robert Baden Powell pada saat itu sebagai,\n
+        Letnan Jenderal tentara Inggris untuk perdana mengadakan perkemahan pramuka di Pulau Brown Sea, Inggris selama 8 hari.\n
+
+Setelah itu pada tahun 1908 Baden Powell menulis sebuah buku tentang prinsip dasar kepramukaan Scouting for Boys\n
+        yang memiliki arti Pramuka Untuk Anak Laki-laki.\n
+        Di tahun 1912 dengan bantuan dari adik perempuan Baden Powell yang bernama Agnes,\n
+        maka terbentuklah pramuka untuk perempuan dengan sebutan Girls Guides.\n\n
+
+Organisasi kepramukaan perempuan ini dilanutkan oleh istri Baden Powell.\n
+        Setelah itu pada tahun 1916 didirikanlah kelompok pramuka siaga dengan nama CUB (Anak Serigala).\n
+        Pedoman kegiatan yang dilaksanakan berdasarkan pada sebuah buku yang memiliki judul The Jungle Book karangan Rudya Kipling.\n\n
+
+Dua tahun kemudian, tepatnya pada tahun 1918, Baden Powell kembali membentuk Rover Scout,\n
+        yaitu organisasi untuk pemuda yang sudah berusia 17 tahun. Berselang 4 tahun setelah itu  tepatnya pada tahun 1922,\n
+        Baden Powell menerbitkan buku yang berjudul Rovering To Success,\n
+        buku ini menggambarkan seorang pemuda yang harus mengayuh sampannya menuju pantai yang bahagia.\n
+
+        Jambore Dunia\n\n
+        Pada tahun 1920, merupakan tahun yang paling berpengaruh dalam sejarah pramuka,\n
+        dimana pada ditahun tersebut merupakan untuk pertama kalinya diadakan Jambore di dunia.\n
+        Selain itu pada tahun tersebut juga dibentuk Dewan Internasional pramuka yang beranggotakan 9 orang biro dan,\n
+        biro berpusat di London.\n\n
+
+Biro pramuka putra dunia mempunyai lima kantor wilayah yaitu di negara Costa Rica, Mesir, Filipina, Swiss dan Nigeria.\n
+        Sedangkan untuk putri mempunyai lima kantor pusat sekretariat di London dan biro kantor wilayah di Amerika latin,\n
+        Asia pasifik, Arab dan Eropa.\n\n
+
+Jambore Dunia pertama dilaksanakan Olympia Hall, London.\n
+        Pada kegiatan tersebut diudang juga peserta dari 27 negara dan pada saat itu Baden Powell diangkat sebagai\n
+        Bapak Pandu sedunia (Chief Scout of The World).\n
+    </string>
+    <string name="sejarah_pramuka_indonesia">
+        Sejarah pramuka di Indonesia tidak lepas berasal dari Gagasan Baden PowelI yang merupakan Bapak Pandu sedunia.\n
+        Lord Robert Baden-Powell Of Gilwell menuliskan pengalaman didalam pembinaan remaja di negara lnggris, \n
+        yang kemudian tumbuh berkembang jadi gerakan kepanduan (kepramukaan).\n
+Ide cemerlang Baden-Powell yang ditulis didalam buku Scouting for Boys menyebar ke bermacam negara,\n
+        juga ke Netherland (Belanda) bersama nama Padvinder.\n
+        Oleh orang Belanda, gagasan itu dibawa ke Hindia Belanda (Indonesia) yang merupakan wilayah jajahannya.\n\n
+
+Sejarah sudah mencatat bahwa gerakan pramuka (kepanduaan) ikut berperan aktif didalam kongres pemuda pada tanggal 28 Oktober 1928\n
+        yang mencetuskan sumpah pemuda sehingga kepanduan Indonesia semakin berkembang.\n
+        K.H. Agus Salim mencetuskan gagasan untuk mengganti Padvenders bersama nama Pandu atau kepanduan,\n
+        setelah ada larangan Pemerintah Hindia Belanda gunakan arti Padvindery.\n\n
+
+        Setelah kemerdekaan Indonesia, terbentuklah Pandu Rakyat Indonesia di Solo pada tanggal 28 Desember 1945,\n
+        yang merupakan hanya satu organisasi kepanduan Indonesia bersama ketentuan Menteri Pendidikan, Pengajaran,\n
+        dan Kebudayaan Nomor 93/Bhg.A, tanggal 1 Februari 1947.\n
+Pada awal th. 1950,\n\n
+        banyak bermunculan organisasi-organisasi kepanduan sehingga Menteri Pendidikan,\n
+        Pengajaran, dan Kebudayaan, mengganti ketentuan Nomor 93/Bhg.A, \n
+        Tanggal 1 Februari 1947 bersama Keputusan Nomor 23441/ Kab, Tanggal 6 September 1951.\n
+        Hal ini terlalu mungkin organisasi kepanduan lain tak sekedar Pandu Rakyat Indonesia.\n\n
+Pada tanggal 16 September 1951,\n\n
+        terbentuklah IPINDO (Ikatan Pandu Indonesia) yang diterima jadi anggota Internasional Conference,\n
+        (Organisasi Kepanduan Sedunia) mewakili Indonesia masuk didalam Far East Regional Scout Ofﬁcer pada th. 1953.\n\n
+
+Pada tahun. 1954,\n\n
+        terbentuklah organisasi POPPINDO (Persaudaraan Organisasi Pandu Puteri Indonesia)\n
+        dan PKPI (Kepanduan Putri Indonesia) yang melebur jadi PERKINDO (Persatuan Kepanduan Indonesia).\n\n
+        Nama Gerakan Pramuka Indonesia \n\n
+        Dalam kurun pas 1950-1960 banyak organisasi kepanduan tumbuh di Indonesia.\n
+        100 organisasi kepanduan yang terhimpun didalam tiga federasi organisasi, yakni IPINDO, POPPINDO dan PKPI.\n
+        Oleh karena itu, Presiden Soekarno mengimbuhkan amanat pemimpin pandu di Istana Merdeka pada tanggal 9 Maret 1961.\n\n
+
+Presiden Soekarno memperlihatkan pembubaran semua organisasi kepanduan di Indonesia dan,\n
+        kemudian meleburnya jadi organisasi baru yang bernama Gerakan Pramuka bersama simbol tunas kelapa.\n
+
+Dengan pertolongan Perdana Menteri Ir. Iuanda,\n
+        maka perjuangan membuahkan Keppres No. 238 Tahun 1961 perihal Gerakan Pramuka yang pada tanggal 20 Mei 1961\n
+        ditandatangani oleh Pjs. Presiden RI Ir. Juanda karena Presiden Soekarno tengah mampir ke Jepang.\n\n
+
+        Akhirnya Gerakan Pramuka diperkenalkan secara resmi kepada khalayak pada tanggal 14 Agustus 1961\n
+        bersamaan bersama Presiden Republik Indonesia menganugerahkan panji-panji sebagai \n
+        penghargaan keikutsertaan para pandu didalam berjuang isi kemerdekaan Republik Indonesia.\n
+        Sejak itulah, pada tanggal 14 Agustus 1961 ditetapkan sebagai Hari Pramuka.\n
+
+Berdasarkan Surat Keputusan Musyawarah Nasional Gerakan Pramuka th. 1988 di Dili,\n
+        Timor-Timor nomer 10/MUNAS/88 perihal Bapak Pramuka, Sri Sultan Hamengku Buwono IX Raja Kesultanan Yogyakarta\n
+        (Gubernur Yogyakarta) dan juga Wakil Presiden Indonesia yang ke dua antara 1973—1978 dan \n
+        dulu menjabat sebagai Ketua Kwartir Gerakan Pramuka adalah Bapak Pramuka Indonesia.\n
+
+
+    </string>
+    <string name="skk_dan_tkk">
+        TKK atau Tanda Kecakapan Khusus adalah tanda yang menunjukkan kecakapan, kepandaian, keterampilan,\n
+        kemampuan sikap dan usaha seorang pramuka di bidang tertentu, sesuai dengan usia, jenis kelamin dan\n
+        kemampuan jasmani dan rohani. Untuk memperoleh TKK seorang pramuka harus mampu menyelesaikan SKK\n
+        (Syarat Kecakapan Khusus) terlebih dahulu.\n\n
+
+SKK berlaku bagi anggota Pramuka Siaga, Pramuka Penggalang, Pramuka Penegak, dan Pramuka Pandega.\n
+        TKK bersifat opsional bagi peserta didik,\n
+        sehingga seorang peserta didik dapat memiliki TKK yang berbeda dari peserta didik lain. Dengan kata lain,\n
+        seorang pramuka bebas memilih SKK apa saja yang diinginkannya sesuai dengan kemampuan, keterampilan, dan minat yang dimiliki.\n
+        Ketentuan tentang kecakapan khusus diatur oleh Gerakan Pramuka dengan ,\n
+        Surat Keputusan Kwartir Nasional Gerakan Pramuka Nomor: 134/KN/76 Tahun 1976 tentang Petunjuk Penyelenggaraan Kecakapan Khusus\n\n
+
+        Tingkatan dan Bentuk TKK\n\n
+
+Kecakapan khusus hanya berlaku pada Anggota Muda Gerakan Pramuka atau yang biasa disebut juga sebagai peserta didik.\n
+        Peserta didik ini meliputi pramuka siaga, pramuka penggalang, pramuka penegak, dan pramuka pandega.\n
+        Kecakapan khusus tidak berlaku bagi anggota dewasa Gerakan Pramuka seperti pembina pramuka,\n
+        pembantu pembina pramuka, pelatih pembina pramuka, andalan, dan anggota majelis pembimbing.\n\n
+
+        Tingkatan dan bentuk Tanda Kecakapan Khusus untuk masing-masing golongan peserta didik pramuka adalah berbeda.\n
+        Perbedaan tingkatan dan bentuknya adalah sebagai berikut:\n\n
+
+Untuk Pramuka Siaga\n\n
+SKK untuk Pramuka Siaga hanya terdiri atas satu tingkat.\n
+        Tanda Kecakapan Khusus (TKK) untuk pramuka siaga berbentuk segitiga sama kaki terbalik (sisi alas di bagian atas)\n
+        dan tidak memakai bingkai.\n\n
+Untuk Pramuka Penggalang\n\n
+SKK untuk pramuka penggalang terdiri atas tiga tingkatan dengan bentuk yang masing-masing berbeda.\n
+        Tingkatan dan bentuknya adalah:\n
+Purwa : Berbentuk lingkaran dengan bingkai berwarna merah\n
+Madya : Berbentuk persegi dengan bingkai berwarna merah\n
+Utama : Berbentuk segilima dengan bingkai berwarna merah\n
+Untuk Pramuka Penegak dan Pandega\n\n
+SKK dan TKK untuk pramuka penegak dan pandega sama.\n
+        Terdiri atas tiga tingkatan dengan bentuk:\n
+Purwa : Berbentuk lingkaran dengan bingkai berwarna kuning\n
+Madya : Berbentuk persegi dengan bingkai berwarna kuning\n
+Utama : Berbentuk segilima dengan bingkai berwarna kuning\n\n
+
+        Ketentuan Dan Cara Pemasangan TKK\n\n
+        Tanda Kecakapan Khusus (TKK) dikenakan di lengan baju sebelah kanan, di sebelah bawah Tanda Kwartir,\n
+        sebanyak maksimal lima buah TKK.\n
+        Jika mempunyai TKK yang diperoleh telah lebih dari lima buah, TKK selebihnya dipasang dalam Tetampan.\n
+        Tetampan dipakai sebagai selempang di baju (dari pundak kanan ke pinggang kiri).\n\n
+
+Beberapa ketentuan lainnya mengenai SKK dan TKK;\n
+Hanya TKK yang ditetapkan Kwarnas yang boleh dipakai,\n
+Yang berhak memberi TKK adalah Pembina atau Pembantu Pembina yang langsung membinanya atau seseorang yang dianggap ahli,\n
+        dalam bidang tertentu\n\n
+Seorang Pramuka hanya dibenarkan mengenakan TKK setelah yang bersangkutan :\n
+Menyelesaikan SKK\n
+Mencapai tingkat SKU Siaga Bantu (bagi pramuka siaga), SKU Rakit (bagi pramuka penggalang),\n
+        mencapai SKU Bantara (bagi pramuka penegak), dan dilantik sebagai pramuka pandega (bagi pandega)\n
+Seorang pramuka tidak diperbolehkan memakai TKK untuk golongan peserta didik di bawahnya (penggalang memakai TKK siaga,\n
+        penegak memakai TKK penggalang). Kecuali pramuka pandega yang boleh memakai TKK tingkat penegak.\n
+TKK yang tingkatannya lebih rendah tidak boleh dikenakan lagi setelah meraih TKK sejenis yang tingkatannya lebih tinggi.\n
+        Semisal setelah mendapatkan TKK menabung tingkat madya maka TKK menabung tingkat purwa harus dilepas.\n
+TKK tidak berlaku untuk Pembina, Andalan, anggota MABI, dan pramuka dewasa lainnya.\n
+        
+
+
+    </string>
+    <string name="tku">
+        Tku Siaga \n\n
+        Satuan Satuan terkecil dalam Pramuka Siaga disebut Barung dan satuan-satuan dari beberapa barung disebut Perindukan.\n
+        Setiap Barung beranggotakan 5-10 orang Pramuka Siaga dan dipimpin oleh seorang Pemimpin Barung\n
+        yang dipilih oleh anggota Barung itu sendiri disebut dengan Pinung.\n
+        Masing-masing Pemimpin Barung ini nanti akan memilih satu orang dari mereka yang akan menjadi Pemimpin Barung Utama\n
+        yang disebut Sulung. Sebuah Perindukan terdiri dari beberapa Barung yang akan dipimpin oleh Sulung.\n\n
+Dalam Pramuka Siaga ada tiga tingkat, yaitu:\n
+1. Mula\n
+2. Bantu\n
+3. Tata\n
+
+Setiap anggota Barung yang telah menyelesaikan SKU ( Syarat Kecakapan Umum )\n
+        berhak mengenakan TKU ( Tanda Kecakapan Umum ) sesuai tingkatannya  yang dikenakan pada lengan baju sebelah kiri\n
+        dibawah tanda barung berwarna dasar hijau.\n
+        TKU untuk Siaga berbentuk sebuah janur atau disebut Mancung yakni bunga pohon kelapa yang baru tumbuh\n\n
+        Arti dan Kiasan TKU Pramuka Siaga\n\n
+1.Berbentuk jajaran genjang, dengan sisi pendek 1,3 cm dan sisi panjang 5 cm, warna dasar hijau tua,\n
+        letaknya miring 300 ke kanan atas\n
+2.Di dalam jajaran genjang tersebut terdapat gambar kelopak bunga kelapa yang sudah mulai terbuka, berwarna putih,\n
+        Kelopak bunga kelapa yang mulai merekah, atau terbuka ini menggambarkan pertumbuhan tanaman,\n
+        mengibaratkan Pramuka Siaga yang sedang tumbuh menjadi tunas calon bangsa.\n
+3.kelopak bunga diletakkan miring, menggambarkan bunga kelapa yang selalu memperlihatkan sudut miring terhadap batang pohonnya,\n
+        mengibaratkan keterikatan Pramuka Siaga dengan keluarga dan orang tuanya.\n
+4.Garis tepi jajaran genjang berwarna hitam.\n
+5.Warna hijau melambangkan kesegaran hidup sesuatu yang sedang tumbuh.\n
+
+        Tku Penggalang\n\n
+
+        Arti Tanda Kecakapan Umum (TKU) Penggalang atau yang biasa disebut sebagai Manggar,\n
+        sudah selayaknya diketahui oleh semua pramuka penggalang.\n
+        Karena tanda kecakapan yang dikenakan dilengan baju sebelah kiri, di bawah tanda regu ini bukan sekedar aksesoris tanpa arti\n
+         Namun sebaliknya, TKU mengandung makna yang sangat dalam.\n\n
+
+Tanda Kecakapan Umum Penggalang yang disebut juga dengan,\n
+        manggar adalah tanda yang diberikan setelah seorang Penggalang menyelesaikan SKU Penggalang.\n
+        Sehingga yang mengenakan manggar ini berarti telah lulus dan menyelesaikan semua persyaratan \n
+        dalam Syarat-syarat Kecakapan Umum.\n\n
+
+Sebagaimana diketahui, TKU mempunyai tiga tingkatan sesuai dengan tingkatan SKU.\n
+        Tingkatan itu yaitu:\n\n
+
+1.Satu Manggar untuk pramuka penggalang yang telah menyelesaikan SKU Ramu\n
+2.Manggar bersusun dua untuk pramuka penggalang yang telah menyelesaikan SKU Rakit\n
+3.Manggar bersusun tiga untuk pramuka penggalang yang telah menyelesaikan SKU Terap\n\n
+        Arti Kiasan TKU Pramuka Penggalang\n\n
+Sebagaimana diuraikan diawal, TKU bukan sekedar aksesoris yang dipasang di lengan baju namun memiliki arti tersendiri.\n
+        Kiasan dalam Tanda Kecakapan Umum Penggalang atau Manggar itu yaitu:\n
+Mayang terurai bertangkai tiga menggambarkan bunga yang sedang berkembang, indah dan menarik;\n
+        mengibaratkan Pramuka Penggalang yang riang,\n
+        lincah dan bersikap menarik sebagai calon penerus bangsa yang sedang berkembang mengladi dirinya dengan jiwa Pramuka\n
+        berdasarkan Trisatya.\n
+Mayang terurai mekar ke samping;\n
+        mengibaratkan semakin terbukanya pan-dangan Penggalang dalam menerima pengaruh yang baik dari lingkungan di sekitarnya.\n
+Warna merah; melambangkan kemeriahan hidup sesuatu yang sedang berkembang.\n\n
+        Tku Penegak\n\n
+
+        Arti Tanda Kecakapan Umum (TKU) Pramuka Penegak;\n
+        Tanda Kecakapan Umum Penegak yang biasa dipasang di kedua pundak baju seragam pramuka bukan sekedar tanda tanpa arti.\n
+        Sebaliknya, dari setiap komponennya terkandung arti dan makna filosofi yang dalam.\n\n
+
+Tanda Kecakapan Umum (TKU) Pramuka Penegak merupakan salah satu Tanda Kecakapan (bagian dari Tanda Pengenal) dalam Gerakan Pramuka.\n
+        Tanda ini dikenakan bagi para pramuka penegak yang telah menyelesaikan dan dilantik SKU Penegak.\n
+Sesuai dengan tingkatan dalam Kecakapan Umum (SKU) Penegak,\n
+        TKU untuk pramuka penegak memiliki dua tingkatan yaitu TKU Penegak Bantara dan TKU Penegak Laksana.\n
+        Antara kedua Tanda Kecakapan tersebut hanya dibedakan dengan tulisan BANTARA atau LAKSANA yang terdapat di bagian bawah TKU.\n\n
+
+        Arti Kiasan TKU Pramuka Penegak\n\n
+Tanda Kecakapan Umum (TKU) Pramuka Penegak mengandung arti dan makna kiasan sebagai salah satu unsur pendidikan dalam kepramukaan.\n\n
+        Arti kiasan dari TKU Penegak adalah sebagai berikut:\n\n
+Bintang bersudut lima mempunyai arti bahwa Pramuka Penegak  bertaqwa kepada tuhan yang Maha Esa dan bermoral Pancasila. \n
+Tunas kelapa yang berlawanan arah mengibaratkan keselarasan dan kesatuan gerak  Pramuka Penegak putra \n
+        dan putri yang sedang membina dirinya sebagai mahluk pribadi, sosial dan mahluk Tuhan menuju cita-cita bangsa.\n
+Tanda di pundak mengibaratkan tanggung jawab yang tidak ringan yang harus dipikulnya sebagai anggota Gerakan Pramuka dan\n
+        kader pembangunan bangsa dan Negara. \n
+Bantara mengandung pengertian kader, ajudan, pengawas pembangunan yang kuat, baik dan terampil serta bermoral Pancasila.\n
+        Calon pemimpin bangsa dan negara yang masih belajar dan mengembangkan kemampuannya dalam memimpin.  \n
+Laksana mengandung arti pemimpin muda yang sudah  sanggup mengemban dan melaksanakan tugas pembangunan bangsa dan negara\n
+        serta mempunyai tanggungjawab yang lebih besar. \n
+Sekali lagi, TKU Pramuka Penegak bukan sekedar tanda yang menjadi penghias pakaian seragam pramuka belaka,\n
+        namun di dalamnya terkandung maksud dan arti yang mencerminkan sikap dan tanggung jawab pramuka yang mengenakannya.\n\n
+        Tku Pandega\n\n
+        Pramuka Pandega adalah golongan sekaligus sebutan bagi anggota Gerakan Pramuka setelah penegak dan berusia antara,\n
+        21 - 25 tahun. Pandega merupakan golongan peserta didik terakhir dalam Gerakan Pramuka\n
+        setelah Pramuka Siaga (usia 7 - 10 tahun), pramuka penggalang (11 - 15 tahun), dan penegak (16 - 20 tahun).\n
+        Dalam bahasa Inggris pandega biasa disebut sebagai Senior Rover.\n\n
+
+Istilah pandega mempunyai arti pemuka atau ahli.\n
+        Hal ini mengandung filosofi berdasarkan romantisme perjuangan bangsa Indonesia\n
+        di mana setelah masa menegakkan kemerdekaan Republik Indonesia dilanjutkan dengan masa memandegani\n
+        pelaksanaan pembangunan di negeri Indonesia\n\n
+        Dewan pandega ini mempunyai tugas:\n\n
+Merancang program kegiatan\n
+Mengurus dan mengatur kegiatan\n
+Mengevaluasi pelaksanaan kegiatan\n
+Merekrut anggota baru\n
+Mencari/mengidentifikasi sumber dana untuk disampaikan kepada Ketua Gudep\n
+Mengelola dana untuk menjalankan program kegiatan\n
+Melaporkan pelaksanaan kegiatan kepada Pembina Gudep\n
+Dewan Kehormatan Pandega adalah Dewan yang dibentuk untuk mendampingi Dewan Pandega.\n\n
+        Tugas Dewan Kehormatan Pandega yaitu:\n
+Menentukan pelantikan,\n
+Memberikan penghargaan kepada Pandega yang berprestasi\n
+Memberikan  tindakan hukuman atas pelanggaran terhadap kode kehormatan.\n
+Rehabilitasi anggota Racana Pandega.\n
+        
+
+    </string>
+
+</resources>
